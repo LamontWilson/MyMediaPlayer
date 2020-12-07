@@ -1,0 +1,28 @@
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.ResolveComReference.cache
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Form1.resources
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.Cache
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+c:\users\l\documents\visual studio 2017\Projects\MyMediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe.config
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.exe
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\bin\Debug\MyMediaPlayer.pdb
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csprojResolveAssemblyReference.cache
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Form1.resources
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.Properties.Resources.resources
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.csproj.GenerateResource.Cache
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.exe
+C:\Users\L\Desktop\MediaPlayer\MyMediaPlayer\obj\Debug\MyMediaPlayer.pdb
